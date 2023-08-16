@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T10:50:37 IST" name="Suite" finished-at="2023-08-16T10:52:02 IST" duration-ms="85632">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T10:50:37 IST" name="Test" finished-at="2023-08-16T10:52:02 IST" duration-ms="85632">
+      <class name="test.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:50:37 IST" name="setup" finished-at="2023-08-16T10:50:42 IST" duration-ms="5689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Hometest()[pri:1, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:50:42 IST" name="Hometest" finished-at="2023-08-16T10:50:48 IST" duration-ms="6080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hometest -->
+        <test-method signature="logintest()[pri:2, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:50:48 IST" name="logintest" finished-at="2023-08-16T10:51:01 IST" duration-ms="12269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="hamselection()[pri:3, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:51:01 IST" name="hamselection" finished-at="2023-08-16T10:51:13 IST" duration-ms="12340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamselection -->
+        <test-method signature="menuselection()[pri:4, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:51:13 IST" name="menuselection" finished-at="2023-08-16T10:51:38 IST" duration-ms="24693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuselection -->
+        <test-method signature="shopping()[pri:5, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:51:38 IST" name="shopping" finished-at="2023-08-16T10:51:47 IST" duration-ms="9215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping -->
+        <test-method signature="wishtest()[pri:6, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:51:47 IST" name="wishtest" finished-at="2023-08-16T10:51:53 IST" duration-ms="6072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishtest -->
+        <test-method signature="Signouttest()[pri:7, instance:test.LogoutTest@15bb5034]" started-at="2023-08-16T10:51:53 IST" name="Signouttest" finished-at="2023-08-16T10:52:02 IST" duration-ms="9240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signouttest -->
+      </class> <!-- test.LogoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
